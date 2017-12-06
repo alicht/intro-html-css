@@ -84,12 +84,15 @@ here's the boilerplate HTML code we'll want to enter in our HTML file:
 ```
 ## Add some content and then open in browser
 
-## let's add a couple hyperlinks
--  Send me an `<a href="espn.com"> email </a>`.
+## let's add a couple of hyperlinks
+-  I love `<a href="espn.com"> sports </a>`.
 
 Anchor Elements create links. In order to make a working link, we need to add more information to the anchor tag using an (href) attribute that detemines the link's destination.
 
 ```<a href="http://www.generalassemb.ly"> This would make this whole sentence a link to General Assembly's home page.</a>```
+
+### Semantic elements in HTML
+https://www.w3schools.com/html/html5_semantic_elements.asp
 
 # CSS 
 
@@ -128,6 +131,38 @@ How do your create ordered lists?
 How do you create line breaks?
 How do you create horizontal rules?
 
+## Elk Web Design 
+http://jsbin.com/cojeke/embed?html,css,output
+
+### What is Responsive Web Design?
+Responsive web design makes your web page look good on all devices.
+
+Responsive web design uses only HTML and CSS.
+
+## Setting The Viewport
+
+HTML5 introduced a method to let web designers take control over the viewport, through the <meta> tag.
+
+You should include the following <meta> viewport element in all your web pages:
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+A <meta> viewport element gives the browser instructions on how to control the page's dimensions and scaling.
+
+The width=device-width part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).
+
+The initial-scale=1.0 part sets the initial zoom level when the page is first loaded by the browser.
+
+![screen shot 2017-12-06 at 7 09 55 am](https://user-images.githubusercontent.com/6153182/33661134-894efd80-da54-11e7-8be7-1890faf5c142.png)
+
+open for example https://www.w3schools.com/css/example_withviewport.htm
+
+## Media Query
+
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+
+## About Me Page
 
 
 
