@@ -94,7 +94,7 @@ Anchor Elements create links. In order to make a working link, we need to add mo
 ### Semantic elements in HTML
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
-# CSS 
+## 3. CSS 
 
 ![screen shot 2017-12-06 at 12 33 04 am](https://user-images.githubusercontent.com/6153182/33646360-12a6dcca-da1d-11e7-9301-c05fa9afbebe.png)
 
@@ -125,21 +125,18 @@ In the CSS, a class selector is a name preceded by a full stop (“.”) and an 
 ![screen shot 2017-12-06 at 12 42 14 am](https://user-images.githubusercontent.com/6153182/33646592-599a2636-da1e-11e7-8f7b-71edb8f27436.png)
 
 ## images
-<img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
+<!img src="https://www.w3schools.com/images/w3schools_green.jpg" alt="W3Schools.com">
 
-How do your create ordered lists?
-How do you create line breaks?
-How do you create horizontal rules?
 
 ## Elk Web Design 
-http://jsbin.com/cojeke/embed?html,css,output
+[let's take a look at this JSbin sample of HTML & CSS](http://jsbin.com/cojeke/embed?html,css,output)
 
 ### What is Responsive Web Design?
 Responsive web design makes your web page look good on all devices.
 
 Responsive web design uses only HTML and CSS.
 
-## Setting The Viewport
+### Setting The Viewport
 
 HTML5 introduced a method to let web designers take control over the viewport, through the <meta> tag.
 
@@ -156,13 +153,15 @@ The initial-scale=1.0 part sets the initial zoom level when the page is first lo
 
 ![screen shot 2017-12-06 at 7 09 55 am](https://user-images.githubusercontent.com/6153182/33661134-894efd80-da54-11e7-8be7-1890faf5c142.png)
 
-open for example https://www.w3schools.com/css/example_withviewport.htm
+[here's an example of what it would look like in action](https://www.w3schools.com/css/example_withviewport.htm)
 
-## Media Query
 
-https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+### Media Query
 
-## About Me Page
+[excellent explanation of media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+
+## 4. About Me Page
 
 
 
