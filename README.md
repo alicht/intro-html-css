@@ -2,7 +2,6 @@
 -  Github
 -  HTML
 -  CSS
--  responsive
 -  about.me page
 
 ## 1. GitHub
@@ -106,6 +105,7 @@ h1 {
 }
 ```
 
+### Box Model 
 
 [much more intricate CSS](http://www.mezzoblue.com/zengarden/alldesigns/)
 
@@ -163,6 +163,7 @@ The initial-scale=1.0 part sets the initial zoom level when the page is first lo
 
 ## 4. About Me Page
 
+see attached code
 
 
 
