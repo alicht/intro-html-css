@@ -4,7 +4,7 @@
 -  CSS
 -  about.me page
 
-## 1. GitHub
+## 1. Git & GitHub
 
 ### Why Git?
 Git is a form of Version Control. 
@@ -37,7 +37,7 @@ If you work by yourself, you don't really need remotes. However, we want to work
 ## Let's create a remote repository on GitHub
 
 -  let's go to GitHub, click the BIG plus sign in the menubar and select New repository. 
--  let's enter a name for our repository in the repository name field. We'll enter the same name we did for our local version `mean-girls` 
+-  let's enter a name for our repository in the repository name field. 
 
 
 ## Lets connect our local repo and our remote repo
@@ -115,12 +115,12 @@ http://www.mezzoblue.com/zengarden/alldesigns/
 -  
 
 ## fonts and text
--  can use these too
+-  can change these too
 
 ## classes and IDs
-What's the difference between the two? In short, using classes allows you to select and style groups of elements with a particular style, while using an ID only allows for an individual element to be styled. Using classes and IDs allows you to have flexibility in how you control the design of individual elements and groups of elements on the page.
+What's the difference between the two?
 
-In the CSS, a class selector is a name preceded by a full stop (“.”) and an ID selector is a name preceded by a hash character (“#”). The difference between an ID and a class is that an ID can be used to identify one element, whereas a class can be used to identify more than one.
+In CSS, a class selector is a name preceded by a full stop (“.”) and an ID selector is a name preceded by a hash character (“#”). The difference between an ID and a class is that an ID can be used to identify one element, whereas a class can be used to identify more than one.
 
 ![screen shot 2017-12-06 at 12 42 14 am](https://user-images.githubusercontent.com/6153182/33646592-599a2636-da1e-11e7-8f7b-71edb8f27436.png)
 
@@ -161,9 +161,9 @@ The initial-scale=1.0 part sets the initial zoom level when the page is first lo
 [excellent explanation of media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 
-## 4. About Me Page
+## 4. Lab - About Me Page
 
-see attached code
+
 
 
 
